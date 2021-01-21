@@ -8,11 +8,9 @@ Degenics is a decentralized platform that brings institutional or independent PC
 
 # WHY?
 
-## To provide an alternative to centralized personal genetic testing services, an alternative where privacy is enforced at infrastructure level, where users control their data from sending to monetization
-
-## To empower labs everywhere possible by adding to their revenue streams and optimizing their PCR equipment yield
-
-## To provide consumers with a stigma-free, private and anonymous health service, be it for lifestyle or healthcare motives
+* **To provide an alternative to centralized personal genetic testing services, an alternative where privacy is enforced at infrastructure level, where users control their data from sending to monetization**
+* **To empower labs everywhere possible by adding to their revenue streams and optimizing their PCR equipment yield**
+* **To provide consumers with a stigma-free, private and anonymous health service, be it for lifestyle or healthcare motives**
 
 # Opportunities
 
